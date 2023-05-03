@@ -1,3 +1,3 @@
 # Kanye-Quote-App
 
-This apps contains all the quotes that kanye has ever used. Its a fun way to represent his quotes in an app form 😂, so basically what i want to add is Drake is better 😤.
+This apps contains all the quotes that kanye has ever used. Its a fun way to represent his quotes in an app form 😂, so basically what i want to say is Drake is better 😤.
